@@ -25,3 +25,4 @@ This is a simple, responsive web-based To-Do List application that allows users 
 - **index.html**: Defines the structure of the To-Do List app.
 - **style.css**: Provides styling for the UI.
 - **script.js**: Contains the functionality for adding, marking as complete, and deleting tasks.
+![Screenshot 2024-10-15 010455](https://github.com/user-attachments/assets/444d8ead-bbf0-49f9-b67f-9fbb8a6f25cd)
